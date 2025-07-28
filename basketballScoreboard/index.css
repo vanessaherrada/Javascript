@@ -1,0 +1,46 @@
+body {
+    margin: 1px;
+    text-align: center;
+    background-color: #C0FF99;
+}
+
+.score {
+    background: #1B2A38;
+    font-size: 90px;
+    color: #EB427B;
+    width: 120px;
+    margin: 20px;
+    padding: 5px 40px;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: #18C48E;  
+}
+
+button {
+    margin: 15px 2px;
+    color: #49474A;
+    background-color: #E8F069;
+    border-radius: 3px;
+    border: 2px;
+    padding: 5px 8px;
+}
+
+.restart-btn {
+    margin: 19px 2px;
+    color: #F77979;
+    background-color: #BF0F0F;
+    border-radius: 3px;
+    padding: 10px 50px;
+    font-size: 20px;
+}
+
+h3 {
+   color: #18C48E; 
+   font-size: 40px;
+}
